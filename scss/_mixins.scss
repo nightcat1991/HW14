@@ -1,0 +1,7 @@
+  @mixin textPrimary($fw, $fs, $color) {
+    font-weight: $fw;
+    font-size: $fs;
+    color: $color;
+    font-family: 'Open Sans', sans-serif;
+  }
+  
